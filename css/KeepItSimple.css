@@ -337,6 +337,9 @@ input.button {
 	text-align: left;
 	margin: 10px 8px 8px 8px; padding: 0;
 	border-top: 2px solid #ebebeb; 
+	height: 550px;
+	position: relative;
+	overflow-y: scroll;
 }
 .sidemenu ul li {
 	list-style: none;
